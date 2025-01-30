@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP lab\\week 3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4952371-A7C8-4309-95A7-55FBE820C8DB}|ConsoleApp1.csproj|E:\\OOP lab\\week 3\\ConsoleApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4952371-A7C8-4309-95A7-55FBE820C8DB}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4952371-A7C8-4309-95A7-55FBE820C8DB}|ConsoleApp1.csproj|E:\\OOP lab\\week 3\\ConsoleApp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4952371-A7C8-4309-95A7-55FBE820C8DB}|ConsoleApp1.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4952371-A7C8-4309-95A7-55FBE820C8DB}|ConsoleApp1.csproj|e:\\oop lab\\week 3\\consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4952371-A7C8-4309-95A7-55FBE820C8DB}|ConsoleApp1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "store.cs",
+              "DocumentMoniker": "E:\\OOP lab\\week 3\\ConsoleApp1\\store.cs",
+              "RelativeDocumentMoniker": "store.cs",
+              "ToolTip": "E:\\OOP lab\\week 3\\ConsoleApp1\\store.cs",
+              "RelativeToolTip": "store.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:13:21.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cs",
+              "DocumentMoniker": "E:\\OOP lab\\week 3\\ConsoleApp1\\product.cs",
+              "RelativeDocumentMoniker": "product.cs",
+              "ToolTip": "E:\\OOP lab\\week 3\\ConsoleApp1\\product.cs",
+              "RelativeToolTip": "product.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:13:10.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ec7c0f6d-7bcb-4fba-a7b3-c742a1b7bf8b",
+        "Display": 0,
+        "X": 23,
+        "Y": 150,
+        "Width": 1092,
+        "Height": 601,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP lab\\week 3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\OOP lab\\week 3\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:47:41.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
