@@ -1,0 +1,7 @@
+E:\OOP lab\week\ATM\bin\Debug\ATM.exe.config
+E:\OOP lab\week\ATM\bin\Debug\ATM.exe
+E:\OOP lab\week\ATM\bin\Debug\ATM.pdb
+E:\OOP lab\week\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\OOP lab\week\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\OOP lab\week\ATM\obj\Debug\ATM.exe
+E:\OOP lab\week\ATM\obj\Debug\ATM.pdb
