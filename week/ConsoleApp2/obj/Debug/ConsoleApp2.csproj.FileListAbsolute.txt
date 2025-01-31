@@ -1,0 +1,7 @@
+E:\OOP lab\week\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\OOP lab\week\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\OOP lab\week\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\OOP lab\week\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\OOP lab\week\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\OOP lab\week\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\OOP lab\week\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
