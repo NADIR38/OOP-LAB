@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP lab\\week\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{883F1EB7-1BC0-4AE4-BBC3-CF73D0CD2631}|ConsoleApp4.csproj|e:\\oop lab\\week\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883F1EB7-1BC0-4AE4-BBC3-CF73D0CD2631}|ConsoleApp4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883F1EB7-1BC0-4AE4-BBC3-CF73D0CD2631}|ConsoleApp4.csproj|e:\\oop lab\\week\\consoleapp4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883F1EB7-1BC0-4AE4-BBC3-CF73D0CD2631}|ConsoleApp4.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "E:\\OOP lab\\week\\ConsoleApp4\\product.cs",
+              "RelativeDocumentMoniker": "product.cs",
+              "ToolTip": "E:\\OOP lab\\week\\ConsoleApp4\\product.cs",
+              "RelativeToolTip": "product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:11:31.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP lab\\week\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\OOP lab\\week\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:11:15.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

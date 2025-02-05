@@ -18,16 +18,17 @@ namespace task3
             hours = 0;
             minutes = 0;
             seconds = 0;
+        
         }
         public clockType(int h)
         {
             hours = h;
         }
-        public clockType(int h,int m)
+        public clockType(int h, int m)
         {
             hours = h; minutes = m;
         }
-        public clockType(int h,int m,int s)
+        public clockType(int h, int m, int s)
         {
             hours = h; minutes = m; seconds = s;
         }
@@ -45,36 +46,54 @@ namespace task3
         {
             minutes++;
         }
-        public void incrementHour() 
-        { 
-        hours++;
+        public void incrementHour()
+        {
+            hours++;
         }
         public void printTime()
         {
-            Console.WriteLine(hours + " "+ minutes + " " + seconds);
+            Console.WriteLine(hours + " " + minutes + " " + seconds);
         }
-        public bool isEqual(int h,int m,int s)
+        public bool isEqual(int h, int m, int s)
         {
             if (hours == h && minutes == m && seconds == s)
             {
                 return true;
             }
-            else 
-            { 
-            return false;
+            else
+            {
+                return false;
             }
         }
         public bool isEqual(clockType temp)
         {
-        if(hours == temp.hours && minutes == temp.minutes && seconds==temp.seconds)
-            {  
-                return true; 
+            if (hours == temp.hours && minutes == temp.minutes && seconds == temp.seconds)
+            {
+                return true;
             }
             else
-            
+
             {
                 return false;
             }
+        } 
+        public void elapsedtime()
+        {
+            Console.WriteLine(DateTime.Now);
+            DateTime currenttime= DateTime.Now;
+            DateTime start = DateTime.Today;
+            TimeSpan elapsed=currenttime - start;
+            Console.WriteLine(elapsed);
+         
+            
+        }
+        public void remainingtime()
+        {
+            DateTime currenttime = DateTime.Now;
+            TimeSpan fullday = new TimeSpan(24, 0, 0);
+            TimeSpan remaining = fullday - currenttime.TimeOfDay;
+            Console.WriteLine(remaining);   
+
         }
     }
 }

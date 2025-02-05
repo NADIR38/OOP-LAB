@@ -40,6 +40,9 @@ namespace task3
             clockType cl1 = new clockType(12, 45, 00);
             clockType cl2 = new clockType(11, 45, 00);
             cl1.twoClocks(cl2);
+            clockType cl3 = new clockType();
+            cl3.elapsedtime();
+            cl3.remainingtime();
 
 
         }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\OOP lab\\week 3\\task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96A228A1-9D56-471F-BC36-458C7A5900C4}|task3\\task3.csproj|e:\\oop lab\\week 3\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A228A1-9D56-471F-BC36-458C7A5900C4}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96A228A1-9D56-471F-BC36-458C7A5900C4}|task3\\task3.csproj|e:\\oop lab\\week 3\\task3\\task3\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96A228A1-9D56-471F-BC36-458C7A5900C4}|task3\\task3.csproj|solutionrelative:task3\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A228A1-9D56-471F-BC36-458C7A5900C4}|task3\\task3.csproj|e:\\oop lab\\week 3\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A228A1-9D56-471F-BC36-458C7A5900C4}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +22,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "clock.cs",
               "DocumentMoniker": "E:\\OOP lab\\week 3\\task3\\task3\\clock.cs",
               "RelativeDocumentMoniker": "task3\\clock.cs",
               "ToolTip": "E:\\OOP lab\\week 3\\task3\\task3\\clock.cs",
               "RelativeToolTip": "task3\\clock.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwF0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T10:05:49.516Z",
+              "WhenOpened": "2025-02-05T08:55:34.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\OOP lab\\week 3\\task3\\task3\\Program.cs",
               "RelativeDocumentMoniker": "task3\\Program.cs",
               "ToolTip": "E:\\OOP lab\\week 3\\task3\\task3\\Program.cs",
               "RelativeToolTip": "task3\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T09:15:48.218Z",
               "EditorCaption": ""

@@ -1,0 +1,7 @@
+E:\OOP lab\week 3\store\bin\Debug\store.exe.config
+E:\OOP lab\week 3\store\bin\Debug\store.exe
+E:\OOP lab\week 3\store\bin\Debug\store.pdb
+E:\OOP lab\week 3\store\obj\Debug\store.csproj.AssemblyReference.cache
+E:\OOP lab\week 3\store\obj\Debug\store.csproj.CoreCompileInputs.cache
+E:\OOP lab\week 3\store\obj\Debug\store.exe
+E:\OOP lab\week 3\store\obj\Debug\store.pdb
