@@ -1,0 +1,7 @@
+E:\OOP\pd\week 4\App\App\bin\Debug\App.exe.config
+E:\OOP\pd\week 4\App\App\bin\Debug\App.exe
+E:\OOP\pd\week 4\App\App\bin\Debug\App.pdb
+E:\OOP\pd\week 4\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\OOP\pd\week 4\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\OOP\pd\week 4\App\App\obj\Debug\App.exe
+E:\OOP\pd\week 4\App\App\obj\Debug\App.pdb

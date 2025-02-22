@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP\\pd\\week 4\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB5645-F7FA-4509-9A6E-EEB0634165EB}|App\\App.csproj|E:\\OOP\\pd\\week 4\\App\\app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB5645-F7FA-4509-9A6E-EEB0634165EB}|App\\App.csproj|solutionrelative:app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB5645-F7FA-4509-9A6E-EEB0634165EB}|App\\App.csproj|e:\\oop\\pd\\week 4\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB5645-F7FA-4509-9A6E-EEB0634165EB}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB5645-F7FA-4509-9A6E-EEB0634165EB}|App\\App.csproj|E:\\OOP\\pd\\week 4\\App\\app\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB5645-F7FA-4509-9A6E-EEB0634165EB}|App\\App.csproj|solutionrelative:app\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\OOP\\pd\\week 4\\App\\App\\User.cs",
+              "RelativeDocumentMoniker": "App\\User.cs",
+              "ToolTip": "E:\\OOP\\pd\\week 4\\App\\App\\User.cs",
+              "RelativeToolTip": "App\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:15:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP\\pd\\week 4\\App\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "E:\\OOP\\pd\\week 4\\App\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:13:55.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "car.cs",
+              "DocumentMoniker": "E:\\OOP\\pd\\week 4\\App\\App\\car.cs",
+              "RelativeDocumentMoniker": "App\\car.cs",
+              "ToolTip": "E:\\OOP\\pd\\week 4\\App\\App\\car.cs",
+              "RelativeToolTip": "App\\car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:24:44.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\OOP\pd\week 4\magicduel\magicduel\bin\Debug\magicduel.exe.config
+E:\OOP\pd\week 4\magicduel\magicduel\bin\Debug\magicduel.exe
+E:\OOP\pd\week 4\magicduel\magicduel\bin\Debug\magicduel.pdb
+E:\OOP\pd\week 4\magicduel\magicduel\obj\Debug\magicduel.csproj.AssemblyReference.cache
+E:\OOP\pd\week 4\magicduel\magicduel\obj\Debug\magicduel.csproj.CoreCompileInputs.cache
+E:\OOP\pd\week 4\magicduel\magicduel\obj\Debug\magicduel.exe
+E:\OOP\pd\week 4\magicduel\magicduel\obj\Debug\magicduel.pdb

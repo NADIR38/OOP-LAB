@@ -1,0 +1,7 @@
+E:\OOP\pd\week 5\point of sale\bin\Debug\point of sale.exe.config
+E:\OOP\pd\week 5\point of sale\bin\Debug\point of sale.exe
+E:\OOP\pd\week 5\point of sale\bin\Debug\point of sale.pdb
+E:\OOP\pd\week 5\point of sale\obj\Debug\point of sale.csproj.AssemblyReference.cache
+E:\OOP\pd\week 5\point of sale\obj\Debug\point of sale.csproj.CoreCompileInputs.cache
+E:\OOP\pd\week 5\point of sale\obj\Debug\point of sale.exe
+E:\OOP\pd\week 5\point of sale\obj\Debug\point of sale.pdb
