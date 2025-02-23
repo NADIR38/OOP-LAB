@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "E:\\OOP\\pd\\week 5\\point of sale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\bl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:bl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\bl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:bl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\pl\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\pl\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:pl\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\pl\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\pl\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:pl\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "App.config",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-22T10:51:05.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T10:51:05.448Z"
             },
             {
               "$type": "Document",
@@ -73,53 +72,52 @@
               "RelativeDocumentMoniker": "pl\\customerui.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\pl\\customerui.cs",
               "RelativeToolTip": "pl\\customerui.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T09:52:14.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T09:52:14.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "customerbl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\customerbl.cs",
               "RelativeDocumentMoniker": "Bl\\customerbl.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\customerbl.cs",
               "RelativeToolTip": "Bl\\customerbl.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowBAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T08:20:10.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "customerdl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\dal\\customerdl.cs",
               "RelativeDocumentMoniker": "dal\\customerdl.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\dal\\customerdl.cs",
               "RelativeToolTip": "dal\\customerdl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T08:18:31.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "customer.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\models\\customer.cs",
               "RelativeDocumentMoniker": "models\\customer.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\models\\customer.cs",
               "RelativeToolTip": "models\\customer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T08:14:30.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "productdl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\dal\\productdl.cs",
               "RelativeDocumentMoniker": "dal\\productdl.cs",
@@ -132,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "product.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\models\\product.cs",
               "RelativeDocumentMoniker": "models\\product.cs",
@@ -145,13 +143,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "productbl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\productbl.cs",
               "RelativeDocumentMoniker": "Bl\\productbl.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\productbl.cs",
               "RelativeToolTip": "Bl\\productbl.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAgwCgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T07:51:08.427Z",
               "EditorCaption": ""
@@ -164,20 +162,19 @@
               "RelativeDocumentMoniker": "pl\\adminui.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\pl\\adminui.cs",
               "RelativeToolTip": "pl\\adminui.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvyQAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T09:24:39.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T09:24:39.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\pl\\Program.cs",
               "RelativeDocumentMoniker": "pl\\Program.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\pl\\Program.cs",
               "RelativeToolTip": "pl\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwGcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T07:48:29.907Z",
               "EditorCaption": ""
