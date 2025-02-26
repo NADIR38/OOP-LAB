@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\OOP\\pd\\week 5\\point of sale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:dal\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:bl\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|e:\\oop\\pd\\week 5\\point of sale\\dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|solutionrelative:dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A34A12A-2381-40D1-B794-A09F3F554DA7}|point of sale.csproj|E:\\OOP\\pd\\week 5\\point of sale\\pl\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -78,20 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "customerbl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\customerbl.cs",
               "RelativeDocumentMoniker": "Bl\\customerbl.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\customerbl.cs",
               "RelativeToolTip": "Bl\\customerbl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T08:20:10.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "customerdl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\dal\\customerdl.cs",
               "RelativeDocumentMoniker": "dal\\customerdl.cs",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "customer.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\models\\customer.cs",
               "RelativeDocumentMoniker": "models\\customer.cs",
@@ -112,25 +112,24 @@
               "RelativeToolTip": "models\\customer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:14:30.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T08:14:30.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "productdl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\dal\\productdl.cs",
               "RelativeDocumentMoniker": "dal\\productdl.cs",
               "ToolTip": "E:\\OOP\\pd\\week 5\\point of sale\\dal\\productdl.cs",
               "RelativeToolTip": "dal\\productdl.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T07:54:41.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "product.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\models\\product.cs",
               "RelativeDocumentMoniker": "models\\product.cs",
@@ -138,12 +137,11 @@
               "RelativeToolTip": "models\\product.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T07:53:47.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T07:53:47.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "productbl.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\Bl\\productbl.cs",
               "RelativeDocumentMoniker": "Bl\\productbl.cs",
@@ -151,8 +149,7 @@
               "RelativeToolTip": "Bl\\productbl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T07:51:08.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T07:51:08.427Z"
             },
             {
               "$type": "Document",
@@ -168,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\OOP\\pd\\week 5\\point of sale\\pl\\Program.cs",
               "RelativeDocumentMoniker": "pl\\Program.cs",
@@ -176,8 +173,7 @@
               "RelativeToolTip": "pl\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwGcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T07:48:29.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T07:48:29.907Z"
             }
           ]
         }

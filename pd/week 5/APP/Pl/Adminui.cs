@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using APP.Bl;
+using System;
 
 namespace APP.Pl
 {
-   public  class Adminui
+    public  class Adminui
     {
         public static int adminmenu()
         {
@@ -30,10 +27,10 @@ namespace APP.Pl
             float rate = float.Parse(Console.ReadLine());
             Console.WriteLine("enter car model");
             string model = Console.ReadLine();
-            models.car car = new models.car(name,model,color,rate);
-                      Bl.carbl.addcar(car);
+            models.car car = new models.car(name, model, color, rate);
+             carbl.addcar(car);
         }
-        public static  void updatecarui()
+        public static void updatecarui()
         {
             Console.WriteLine("enter car name");
             string name = Console.ReadLine();
@@ -45,7 +42,7 @@ namespace APP.Pl
             float new_rate = float.Parse(Console.ReadLine());
             Console.WriteLine("enter new car model");
             string new_model = Console.ReadLine();
-            bool isupadted=Bl.carbl.updatecar(name, new_name, new_rate, new_color, new_model);
+            bool isupadted = Bl.carbl.updatecar(name, new_name, new_rate, new_color, new_model);
             if (isupadted)
             {
                 Console.WriteLine("car updated succesfully");
@@ -58,9 +55,9 @@ namespace APP.Pl
         public static void deletecarui()
         {
             Console.WriteLine("Enter car name to delete");
-                string dname = Console.ReadLine();
+            string dname = Console.ReadLine();
             bool isdeleted = Bl.carbl.deletecar(dname);
-            if(isdeleted==true)
+            if (isdeleted == true)
             {
                 Console.WriteLine("car deleted succesfully");
                 Bl.carbl.showcars();

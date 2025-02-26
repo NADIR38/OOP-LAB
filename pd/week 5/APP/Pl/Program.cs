@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,12 +9,12 @@ namespace APP
 {
     class Program
     {
+        DatabaseHelper dbHelper=new DatabaseHelper();
         static void Main(string[] args)
         {
             while (true)
             {
-                Pl.Adminui adminui = new Pl.Adminui();
-                Pl.userui userui = new Pl.userui();
+             
                 int choice = loginmenu();
                 if (choice == 1)
                 {
@@ -90,7 +91,10 @@ namespace APP
                     Console.WriteLine("enter email");
                     string email = Console.ReadLine();
                     models.user user = new models.user(name, password,email);
+                    
                     Bl.userbl.adduser(user);
+                  
+
                 }
                 else if (choice == 3)
                 {

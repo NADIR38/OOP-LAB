@@ -1,0 +1,14 @@
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\study\semester2\oop lab\manual 5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\OOP\lab\week 5\UAMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

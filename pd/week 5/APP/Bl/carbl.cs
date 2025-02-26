@@ -10,9 +10,9 @@ namespace APP.Bl
 {
     public class carbl
     {
-        public static void addcar(models.car car)
+        public static  void addcar(car car)
         {
-            Dl.cardl.cars.Add(car);
+            cardl.cars.Add(car);
             Console.WriteLine("car added succesfully");
 
         }
